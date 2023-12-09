@@ -1,4 +1,4 @@
-# Spark's Spyware.
+# Sulfur Spyware.
 Just a goddamn spyware made by a 15 years old idiot made in Python.
 
 ** **
